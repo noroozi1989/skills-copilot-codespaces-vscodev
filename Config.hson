@@ -1,0 +1,28 @@
+{
+  "full_config": {
+    "RandomX": {
+      "wallet": "4BDHoHogRgPYQR3JcZjgUaFo8yQwqtZUagYzmyRwbryLWU2UPL4Uut696o7vbcz1JnQTw2Z8pMxnqKJED4CpXxHNH6d11g9",
+      "rigName": "rig1",
+      "email": "norozigv@gmail.com",
+      "pools": [
+        "xmr-eu1.nanopool.org:14433",
+        "xmr-eu2.nanopool.org:14433",
+        "xmr-us-east1.nanopool.org:14433",
+        "xmr-us-west1.nanopool.org:14433",
+        "xmr-asia1.nanopool.org:14433"
+      ]
+    }
+  },
+  "equivalent_config": {
+    "RandomX": {
+      "wallet": "4BDHoHogRgPYQR3JcZjgUaFo8yQwqtZUagYzmyRwbryLWU2UPL4Uut696o7vbcz1JnQTw2Z8pMxnqKJED4CpXxHNH6d11g9",
+      "rigName": "rig1",
+      "email": "norozigv@gmail.com"
+    }
+  },
+  "minimal_config": {
+    "RandomX": {
+      "wallet": "4BDHoHogRgPYQR3JcZjgUaFo8yQwqtZUagYzmyRwbryLWU2UPL4Uut696o7vbcz1JnQTw2Z8pMxnqKJED4CpXxHNH6d11g9"
+    }
+  }
+}
